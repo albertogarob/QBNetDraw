@@ -208,4 +208,6 @@ MIT License - see LICENSE file for details.
 
 ---
 
-*Part of the [Modern Retrocomputing Magazine project](https://medium.com/modern-retrocomputing-magazine) - exploring the intersection of vintage computing and contemporary technology.*
+*Read the article about this project on [Medium]https://medium.com/modern-retrocomputing-magazine/time-travel-computing-visualizing-modern-network-data-with-1992s-qbasic-c29ba01c3bdc)*
+
+*Part of the [Modern Retrocomputing Magazine](https://medium.com/modern-retrocomputing-magazine) project - exploring the intersection of vintage computing and contemporary technology.*
