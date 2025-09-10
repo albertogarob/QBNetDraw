@@ -27,7 +27,7 @@ cd qbasic-network-viz
 
 2. Install Python dependencies:
 ```bash
-pip install python-igraph
+pip install -r requirements.txt
 ```
 
 3. Install DOSBox:
@@ -173,8 +173,7 @@ GML → igraph → Layout → Communities → CSV → QBasic → VGA
 - Ensure filename is exactly `QBASIC.EXE` (uppercase)
 
 **"No module named 'igraph'"**
-- Install: `pip install python-igraph`
-- On some systems: `pip install cairocffi` may also be needed
+- Install: `pip install -r requirements.txt`
 
 **DOSBox runs but no graphics appear**
 - Check that CSV file exists and has data
